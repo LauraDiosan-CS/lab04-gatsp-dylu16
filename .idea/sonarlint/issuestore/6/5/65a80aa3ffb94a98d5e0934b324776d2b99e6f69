@@ -1,0 +1,20 @@
+
+K
+java:S5413[")Verify that "remove()" is used correctly.(÷¼«üÿÿÿÿ8¼ó—ğ.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ùúÀî.
+r	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¹­æüÿÿÿÿ8¼ó—ğ.
+G
+java:S5411†"*Use the primitive boolean expression here.(˜‰è8¼ó—ğ.
+„
+java:S41656"bRemove this useless assignment; "born" already holds the assigned value along all execution paths.(õùòÇùÿÿÿÿ8¼ó—ğ.
+H
+java:S5411"*Use the primitive boolean expression here.(®ù°÷8¼ó—ğ.
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¦úıÿÿÿÿ8¼ó—ğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Å£÷ß8Ğ —ì.
+H
+java:S5411Š"*Use the primitive boolean expression here.(¨à€ô8¼ó—ğ.
+K
+java:S5413[")Verify that "remove()" is used correctly.(÷¼«üÿÿÿÿ8¼ó—ğ.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²½–ì.
